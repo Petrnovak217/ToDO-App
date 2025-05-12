@@ -1,4 +1,4 @@
-# ToDO-App
+# ToDo-App
 Úkolníček pro sepsání úkolů tvořeny v js s localstorage
 
 ## Jak spustit
